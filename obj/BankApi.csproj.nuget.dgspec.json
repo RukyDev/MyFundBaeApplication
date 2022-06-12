@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\NewProject\\dup of bankapi\\BankApplication\\BankApi\\BankApi.csproj": {}
+    "C:\\Users\\USER\\Documents\\GitHub\\MyFundBaeApplication\\BankApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\NewProject\\dup of bankapi\\BankApplication\\BankApi\\BankApi.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\MyFundBaeApplication\\BankApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\NewProject\\dup of bankapi\\BankApplication\\BankApi\\BankApi.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\MyFundBaeApplication\\BankApi.csproj",
         "projectName": "BankApi",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\NewProject\\dup of bankapi\\BankApplication\\BankApi\\BankApi.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\MyFundBaeApplication\\BankApi.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\NewProject\\dup of bankapi\\BankApplication\\BankApi\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\MyFundBaeApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
